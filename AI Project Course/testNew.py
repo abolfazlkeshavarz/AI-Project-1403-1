@@ -120,7 +120,7 @@ actuals = {
     "img_69.jpg": 0,
     "img_70.jpg": 1,
     "img_71.jpg": 6,
-    "img_72.jpg": 6,
+    "img_72.jpg": 5,
 }
 
 
